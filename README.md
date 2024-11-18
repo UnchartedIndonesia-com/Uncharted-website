@@ -1,2 +1,2 @@
 # Uncharted-website
-Web Development Uncharter Indonesia
+Web Development Uncharted Indonesia
